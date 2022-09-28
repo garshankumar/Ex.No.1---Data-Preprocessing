@@ -22,7 +22,6 @@ Another aspect is that the data set should be formatted in such a way that more 
 Importing the librariesImporting the datasetTaking care of missing dataEncoding categorical dataNormalizing the dataSplitting the data into test and train
 ```
 ##PROGRAM:
-```
 
 Developed by: k.garshankumar
 Register No: 212219040034
@@ -50,6 +49,7 @@ from sklearn.preprocessing import StandardScaler
 sc = StandardScaler()
 df1 = sc.fit_transform(df)
 print(df1)
+```
 ##OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/112486797/192798139-39d8e516-1d78-4d14-bddf-5b9e463df0d4.png)
