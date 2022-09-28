@@ -1,8 +1,8 @@
 # Ex.No.1---Data-Preprocessing
-##AIM:
+##AIM
 To perform Data preprocessing in a data set downloaded from Kaggle
 
-##REQUIPMENTS REQUIRED:
+##REQUIPMENTS REQUIRED 
 Hardware – PCsAnaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 ## RELATED THEORETICAL CONCEPT:
 
