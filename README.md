@@ -15,10 +15,14 @@ Need of Data Preprocessing :
 
 For achieving better results from the applied model in Machine Learning projects the format of the data has to be in a proper manner. Some specified Machine Learning model needs information in a specified format, for example, Random Forest algorithm does not support null values, therefore to execute random forest algorithm null values have to be managed from the original raw data set.
 Another aspect is that the data set should be formatted in such a way that more than one Machine Learning and Deep Learning algorithm are executed in one data set, and best out of them is chosen.
+```
 ##ALGORITHM:
+```
 
 Importing the librariesImporting the datasetTaking care of missing dataEncoding categorical dataNormalizing the dataSplitting the data into test and train
+```
 ##PROGRAM:
+```
 
 Developed by: k.garshankumar
 Register No: 212219040034
